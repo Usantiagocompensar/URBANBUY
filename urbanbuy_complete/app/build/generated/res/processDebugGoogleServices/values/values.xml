@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">596479448210</string>
+    <string name="google_api_key" translatable="false">AIzaSyD0qDt8-YXh-FNM3wJ9dLbbweCpXZuSpp0</string>
+    <string name="google_app_id" translatable="false">1:596479448210:android:96f4f0a9860543e88ec24b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD0qDt8-YXh-FNM3wJ9dLbbweCpXZuSpp0</string>
+    <string name="google_storage_bucket" translatable="false">urbanbuy-af62c.firebasestorage.app</string>
+    <string name="project_id" translatable="false">urbanbuy-af62c</string>
+</resources>

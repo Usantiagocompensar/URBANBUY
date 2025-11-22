@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="urban_blue">#0D47A1</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">UrbanBuy</string>
+    <string name="btn_add">Agregar</string>
+    <string name="btn_products">Ver Productos</string>
+    <string name="gcm_defaultSenderId" translatable="false">596479448210</string>
+    <string name="google_api_key" translatable="false">AIzaSyD0qDt8-YXh-FNM3wJ9dLbbweCpXZuSpp0</string>
+    <string name="google_app_id" translatable="false">1:596479448210:android:96f4f0a9860543e88ec24b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD0qDt8-YXh-FNM3wJ9dLbbweCpXZuSpp0</string>
+    <string name="google_storage_bucket" translatable="false">urbanbuy-af62c.firebasestorage.app</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="project_id" translatable="false">urbanbuy-af62c</string>
+    <style name="Theme.UrbanBuy" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+    <item name="colorPrimary">@color/urban_blue</item>
+    <item name="colorOnPrimary">@color/white</item>
+  </style>
+</resources>

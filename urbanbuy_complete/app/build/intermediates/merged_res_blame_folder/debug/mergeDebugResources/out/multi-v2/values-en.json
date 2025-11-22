@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.urbanbuy.app-mergeDebugResources-39:/values-en/values-en.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\dsant\\Downloads\\urbanbuy_complete\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "from": {
+                        "startLines": "1,3,2,4",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "16,117,62,157",
+                        "endColumns": "45,39,54,39",
+                        "endOffsets": "57,152,112,192"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,101,141,196",
+                        "endColumns": "45,39,54,39",
+                        "endOffsets": "96,136,191,231"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "com.example.urbanbuy.app-debug-41:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.urbanbuy.app-main-43:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.urbanbuy.app-debug-41:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.urbanbuy.app-main-43:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.urbanbuy.app-debug-41:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.urbanbuy.app-main-43:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.urbanbuy.app-debug-41:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.urbanbuy.app-main-43:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.urbanbuy.app-debug-41:/layout_activity_login.xml.flat",
+        "source": "com.example.urbanbuy.app-main-43:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.urbanbuy.app-debug-41:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.urbanbuy.app-main-43:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.urbanbuy.app-debug-41:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.urbanbuy.app-main-43:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.urbanbuy.app-debug-41:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.urbanbuy.app-main-43:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.urbanbuy.app-debug-41:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.urbanbuy.app-main-43:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.urbanbuy.app-debug-41:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.urbanbuy.app-main-43:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.urbanbuy.app-debug-41:/layout_item_cart.xml.flat",
+        "source": "com.example.urbanbuy.app-main-43:/layout/item_cart.xml"
+    },
+    {
+        "merged": "com.example.urbanbuy.app-debug-41:/layout_activity_register.xml.flat",
+        "source": "com.example.urbanbuy.app-main-43:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.urbanbuy.app-debug-41:/layout_activity_add_product.xml.flat",
+        "source": "com.example.urbanbuy.app-main-43:/layout/activity_add_product.xml"
+    },
+    {
+        "merged": "com.example.urbanbuy.app-debug-41:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.urbanbuy.app-main-43:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.urbanbuy.app-debug-41:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.urbanbuy.app-main-43:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.urbanbuy.app-debug-41:/layout_activity_product_list.xml.flat",
+        "source": "com.example.urbanbuy.app-main-43:/layout/activity_product_list.xml"
+    },
+    {
+        "merged": "com.example.urbanbuy.app-debug-41:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.urbanbuy.app-main-43:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.urbanbuy.app-debug-41:/layout_activity_location.xml.flat",
+        "source": "com.example.urbanbuy.app-main-43:/layout/activity_location.xml"
+    },
+    {
+        "merged": "com.example.urbanbuy.app-debug-41:/layout_activity_edit_account.xml.flat",
+        "source": "com.example.urbanbuy.app-main-43:/layout/activity_edit_account.xml"
+    },
+    {
+        "merged": "com.example.urbanbuy.app-debug-41:/drawable_baseline_shopping_cart_checkout_24.xml.flat",
+        "source": "com.example.urbanbuy.app-main-43:/drawable/baseline_shopping_cart_checkout_24.xml"
+    },
+    {
+        "merged": "com.example.urbanbuy.app-debug-41:/menu_product_menu.xml.flat",
+        "source": "com.example.urbanbuy.app-main-43:/menu/product_menu.xml"
+    },
+    {
+        "merged": "com.example.urbanbuy.app-debug-41:/layout_item_product.xml.flat",
+        "source": "com.example.urbanbuy.app-main-43:/layout/item_product.xml"
+    },
+    {
+        "merged": "com.example.urbanbuy.app-debug-41:/layout_activity_recharge.xml.flat",
+        "source": "com.example.urbanbuy.app-main-43:/layout/activity_recharge.xml"
+    },
+    {
+        "merged": "com.example.urbanbuy.app-debug-41:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.urbanbuy.app-main-43:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.urbanbuy.app-debug-41:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.urbanbuy.app-main-43:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.urbanbuy.app-debug-41:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.urbanbuy.app-main-43:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.urbanbuy.app-debug-41:/layout_activity_cart.xml.flat",
+        "source": "com.example.urbanbuy.app-main-43:/layout/activity_cart.xml"
+    },
+    {
+        "merged": "com.example.urbanbuy.app-debug-41:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.urbanbuy.app-main-43:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.urbanbuy.app-debug-41:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.urbanbuy.app-main-43:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.urbanbuy.app-debug-41:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.urbanbuy.app-main-43:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.urbanbuy.app-debug-41:/layout_activity_main.xml.flat",
+        "source": "com.example.urbanbuy.app-main-43:/layout/activity_main.xml"
+    }
+]

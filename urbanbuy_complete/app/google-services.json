@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "596479448210",
+    "project_id": "urbanbuy-af62c",
+    "storage_bucket": "urbanbuy-af62c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596479448210:android:96f4f0a9860543e88ec24b",
+        "android_client_info": {
+          "package_name": "com.example.urbanbuy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0qDt8-YXh-FNM3wJ9dLbbweCpXZuSpp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

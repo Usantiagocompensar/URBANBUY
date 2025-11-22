@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "com.example.urbanbuy.app-mergeDebugResources-40:/layout/activity_recharge.xml",
+        "source": "com.example.urbanbuy.app-main-43:/layout/activity_recharge.xml"
+    },
+    {
+        "merged": "com.example.urbanbuy.app-mergeDebugResources-40:/layout/activity_product_list.xml",
+        "source": "com.example.urbanbuy.app-main-43:/layout/activity_product_list.xml"
+    },
+    {
+        "merged": "com.example.urbanbuy.app-mergeDebugResources-40:/layout/activity_login.xml",
+        "source": "com.example.urbanbuy.app-main-43:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.urbanbuy.app-mergeDebugResources-40:/layout/item_product.xml",
+        "source": "com.example.urbanbuy.app-main-43:/layout/item_product.xml"
+    },
+    {
+        "merged": "com.example.urbanbuy.app-mergeDebugResources-40:/layout/activity_edit_account.xml",
+        "source": "com.example.urbanbuy.app-main-43:/layout/activity_edit_account.xml"
+    },
+    {
+        "merged": "com.example.urbanbuy.app-mergeDebugResources-40:/layout/activity_main.xml",
+        "source": "com.example.urbanbuy.app-main-43:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.urbanbuy.app-mergeDebugResources-40:/layout/activity_cart.xml",
+        "source": "com.example.urbanbuy.app-main-43:/layout/activity_cart.xml"
+    },
+    {
+        "merged": "com.example.urbanbuy.app-mergeDebugResources-40:/layout/item_cart.xml",
+        "source": "com.example.urbanbuy.app-main-43:/layout/item_cart.xml"
+    },
+    {
+        "merged": "com.example.urbanbuy.app-mergeDebugResources-40:/layout/activity_location.xml",
+        "source": "com.example.urbanbuy.app-main-43:/layout/activity_location.xml"
+    },
+    {
+        "merged": "com.example.urbanbuy.app-mergeDebugResources-40:/layout/activity_register.xml",
+        "source": "com.example.urbanbuy.app-main-43:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.urbanbuy.app-mergeDebugResources-40:/layout/activity_add_product.xml",
+        "source": "com.example.urbanbuy.app-main-43:/layout/activity_add_product.xml"
+    }
+]

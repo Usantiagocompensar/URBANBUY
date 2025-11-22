@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.urbanbuy">
+
+    <!-- PERMISOS NECESARIOS -->
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION"/>
+
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="false"/>
+
+    <application
+        android:name=".UrbanBuyApp"
+        android:label="@string/app_name"
+        android:icon="@mipmap/ic_launcher"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:theme="@style/Theme.UrbanBuy">
+
+        <!-- CONFIGURACIÓN OSMDROID -->
+        <meta-data
+            android:name="osmdroid.basePath"
+            android:value="osmdroid" />
+
+        <meta-data
+            android:name="osmdroid.cachePath"
+            android:value="osmdroid/cache" />
+
+        <!-- ACTIVIDADES AUTENTICACIÓN -->
+        <activity android:name=".ui.auth.LoginActivity" android:exported="false" />
+        <activity android:name=".ui.auth.RegisterActivity" android:exported="false" />
+        <activity android:name=".ui.auth.EditAccountActivity" android:exported="false" />
+        <activity android:name=".ui.auth.RechargeActivity" android:exported="false" />
+
+
+        <!-- PRODUCTOS -->
+        <activity android:name=".ui.product.ProductListActivity" android:exported="false" />
+        <activity android:name=".ui.product.AddProductActivity" android:exported="false" />
+        <activity android:name=".ui.product.EditProductActivity" android:exported="false" />
+
+        <!-- CARRITO -->
+        <activity android:name=".ui.cart.CartActivity" android:exported="false" />
+
+        <!-- UBICACIÓN -->
+        <activity android:name=".ui.location.LocationActivity" android:exported="false" />
+
+        <!-- ACTIVIDAD PRINCIPAL -->
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+
+    </application>
+
+</manifest>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UrbanBuy</string>
+    <string name="btn_add">Add</string>
+    <string name="btn_products">View Products</string>
+    <string name="login">Login</string>
+</resources>
